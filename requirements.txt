@@ -1,0 +1,13 @@
+keras>=3.0
+tensorflow>=2.15
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+xgboost>=2.0
+sentence-transformers>=2.2
+transformers>=4.35
+keras-tuner>=1.4
+matplotlib>=3.7
+seaborn>=0.13
+jupyter>=1.0
